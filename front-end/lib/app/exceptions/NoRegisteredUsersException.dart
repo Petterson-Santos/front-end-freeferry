@@ -1,0 +1,1 @@
+class NoRegisteredUsersException implements Exception {}

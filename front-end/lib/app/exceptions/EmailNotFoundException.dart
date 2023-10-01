@@ -1,0 +1,1 @@
+class EmailNotFoundException implements Exception {}
